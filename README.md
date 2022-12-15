@@ -19,4 +19,4 @@ The aim of this project is to do the following:
 
 ## Unified Modeling Language Diagram of the DTO <a name="uml"></a>
 
-![UML Diagram of the DTO](https://github.com/seun-beta/dto/blob/main/uml.png?raw=true)
+![UML Diagram of the DTO](https://github.com/seun-beta/data-transfer-objects/blob/main/assets/uml.png?raw=true)
