@@ -14,7 +14,7 @@ class CustomerRepository:
     def __init__(self) -> None:
         self.customer_repository: dict = {}
 
-    def set(self, customer: Any) -> Dict[int, str]:
+    def set(self, customer: Customer) -> Customer:
         set_result = self.customer_repository[customer.customer_id] = customer
         return set_result
 
